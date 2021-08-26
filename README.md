@@ -10,3 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
+
+## 🔖 Curso realizado na plataforma [Rocketseat](https://rocketseat.com.br/)
+
+[Missão: Node.js - Back End](https://app.rocketseat.com.br/node/mission-node-js)
