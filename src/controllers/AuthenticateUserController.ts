@@ -4,7 +4,7 @@ import { AuthenticateUserService } from "../services/AuthenticateUserService";
 
 class AuthenticateUserController {
   async handle(request: Request, response: Response){
-    const { email, password } = request.body
+    const { email, password } = request.body;
 
     const authenticateUserService = new AuthenticateUserService();
 
@@ -17,4 +17,4 @@ class AuthenticateUserController {
   }
 }
 
-export {AuthenticateUserController}
+export {AuthenticateUserController};
